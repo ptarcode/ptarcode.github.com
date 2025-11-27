@@ -42,10 +42,10 @@ Engenheiro de software com foco em DevOps e computação de alto desempenho. Meu
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Rails"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="Ruby"/>
 </section>       
-
+<!-- 
 ## Informação Adicional
 - Bolsista Qualitec no projeto [Singrar](https://www.singrar.uerj.br/), onde tenho a oportunidade de aprimorar minhas habilidades em infraestrutura, DevOps e computação de alto desempenho.
-
+-->
 <div align="center">
     <img src="./coffee-lover-hot-coffee.gif" alt="Little Coffee" width="150px"/>
 </div>
