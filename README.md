@@ -41,6 +41,7 @@ Engenheiro de software com foco em DevOps e computação de alto desempenho. Meu
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgresql"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Rails"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="Ruby"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust"/>
 </section>       
 <!-- 
 ## Informação Adicional
